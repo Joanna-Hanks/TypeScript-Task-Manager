@@ -4,7 +4,7 @@ This project is a simple task manager made with TypeScript. It allows users to a
 
 I created this program to learn TypeScript and practice using classes, arrays, recursion, asynchronous functions, and exception handling.
 
-[Software Demo Video](Work in Progress...)
+Currently building the video demo....
 
 # Development Environment
 
